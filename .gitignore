@@ -1,0 +1,19 @@
+Python / virtual environments
+
+.venv/ venv/ pycache/ .pyc
+
+MkDocs build output
+
+site/
+
+OS / editor junk
+
+.DS_Store Thumbs.db
+
+Backups / temp
+
+.bak .tmp
+
+SSH config leftovers (don’t store keys/config copies in repo)
+
+sshconfig*.txt

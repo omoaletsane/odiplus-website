@@ -1,0 +1,48 @@
+cat > docs/services.md <<'EOF'
+# Services
+
+Odiplus Investment offers general services with a growing focus on:
+
+## Construction (Planned Registration)
+- Building and renovation support
+- General maintenance
+- Site support services
+
+## Supplies (Planned Registration)
+- Office and operational supplies
+- Building materials support
+- General procurement support
+
+## Farming (Planned Registration)
+- Crop and field support (seasonal)
+- Farm support services
+- Agricultural supply support
+
+> More services will be added as the company expands.
+EOF
+
+cat > docs/about.md <<'EOF'
+# About Odiplus Investment
+
+Odiplus Investment is a Botswana-based general services company. We are building a strong foundation to expand into construction, supplies, and farming services as part of our growth plan.
+
+## Our focus
+- Reliable service delivery
+- Professional conduct
+- Continuous improvement
+
+## Location
+Botswana
+EOF
+
+cat > docs/contact.md <<'EOF'
+# Contact
+
+For enquiries, quotations, or partnerships:
+
+- **Phone / WhatsApp:** +267 ________
+- **Email:** ________@______
+- **Location:** Botswana
+
+> Contact details will be updated as the website evolves.
+EOF

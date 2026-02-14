@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://omoaletsane.github.io/odiplus-website/sitemap.xml

@@ -6,8 +6,7 @@ theme:
 
 plugins:
   - search
-  - sitemap
-
+  
 nav:
   - Home: index.md
   - Services: services.md
