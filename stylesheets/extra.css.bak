@@ -1,0 +1,33 @@
+cat > docs/stylesheets/extra.css <<'EOF'
+/* Odiplus: clean, modern look */
+.md-header, .md-tabs {
+  box-shadow: none;
+}
+
+.hero {
+  padding: 3rem 0 2rem;
+}
+
+.hero h1 {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  max-width: 52ch;
+}
+
+.cta-row {
+  display: flex;
+  gap: .75rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.cta a.md-button {
+  border-radius: 999px;
+  padding: .6rem 1.1rem;
+}
+EOF
