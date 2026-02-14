@@ -1,13 +1,6 @@
 site_name: Odiplus Investment
-site_url: https://omoaletsane.github.io/odiplus-website/
-
 theme:
   name: material
-
-plugins:
-  - search
-  - sitemap
-
 nav:
   - Home: index.md
   - Services: services.md
