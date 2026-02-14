@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://omoaletsane.github.io/odiplus-website/</loc>
+    <lastmod>2026-02-14</lastmod>
   </url>
   <url>
     <loc>https://omoaletsane.github.io/odiplus-website/services/</loc>
+    <lastmod>2026-02-14</lastmod>
   </url>
   <url>
     <loc>https://omoaletsane.github.io/odiplus-website/about/</loc>
+    <lastmod>2026-02-14</lastmod>
   </url>
   <url>
     <loc>https://omoaletsane.github.io/odiplus-website/contact/</loc>
+    <lastmod>2026-02-14</lastmod>
   </url>
 </urlset>
